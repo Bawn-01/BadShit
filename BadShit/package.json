@@ -1,0 +1,15 @@
+{
+  "name": "badshit",
+  "version": "1.0.0",
+  "description": "A very bad programming language",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "bsh",
+    "start": "node src/index.js"
+  },
+  "author": "Bawn",
+  "license": "ISC"
+}
